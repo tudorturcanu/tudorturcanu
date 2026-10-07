@@ -18,7 +18,7 @@ npx skills add tudorturcanu/iphone-duo-skill -g
 
 #### Problems I've been chewing on
 
-- **Local inference on iOS.** MLX Swift and Apple's Foundation Models for chat, vision, and document Q&A; `whisper.cpp` for transcription; translation models sized to the device's physical memory. No server, no account.
+- **Local inference on iOS.** MLX Swift and Apple's Foundation Models for chat, vision, and document Q&A; `whisper.cpp` for transcription; translation models sized to the device's physical memory. Everything stays on the device.
 - **Streaming tokens into SwiftUI.** `AsyncSequence` fits until cancellation, actor isolation, and update frequency show up.
 - **Parsing file containers by hand.** Walking JPEG segments, PNG chunks, ISOBMFF boxes, and PDF objects to rewrite metadata while copying every pixel byte for byte.
 - **Sensors as input.** ARKit with `.gravityAndHeading` to pin summit names onto a live camera feed, RoomPlan and RealityKit for true-to-scale furniture, `CMHeadphoneMotionManager` to read head posture from AirPods.

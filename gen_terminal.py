@@ -22,14 +22,14 @@ screen = [
     [("     ", F), ('"Swift"', S)],
     [("   ", F), ("let", K), (" ai =", F)],
     [("     ", F), ("Model", T), (".onDevice", F)],
-    [("   ", F), ("let", K), (" server:", F)],
-    [("     ", F), ("URL", T), ("? = ", F), ("nil", K)],
+    [("   ", F), ("let", K), (" network =", F)],
+    [("     ", F), (".optional", F)],
     [("   ", F), ("let", K), (" apps = ", F), ("29", N)],
     [(" }", F)],
     [],
     [(" ", F), ("✓ Build succeeded", G)],
     [("   0 warnings", D)],
-    [("   0 servers", D)],
+    [("   0 errors", D)],
     [],
     [("      ", F), ("━━━━━━━━", D)],
 ]
@@ -53,7 +53,7 @@ info = [
     [("shipped   ", "l"), ("29 apps on the App Store", F)],
     [("oss       ", "l"), ("SkillHub · Portly", F)],
     [("uptime    ", "l"), ("10+ years", F)],
-    [("server    ", "l"), ("nil", K)],
+    [("backend   ", "l"), ("Vapor · FastAPI", F)],
 ]
 SWATCHES = ["#ff7b72", "#f0883e", "#e3b341", "#3fb950", "#58a6ff", "#bc8cff", "#8b949e", "#f0f6fc"]
 
@@ -137,7 +137,7 @@ anim = "" if static else """
 
 svg = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img" aria-labelledby="t d">
 <title id="t">Terminal session drawing an iPhone in text characters</title>
-<desc id="d">The command xcrun simctl boot tudor &amp;&amp; neofetch prints an iPhone whose screen shows a Swift struct, beside a summary: iOS tech lead and indie dev; Swift, C++ and Python; on-device and offline-first AI; 29 apps on the App Store; server nil.</desc>
+<desc id="d">The command xcrun simctl boot tudor &amp;&amp; neofetch prints an iPhone whose screen shows a Swift struct, beside a summary: iOS tech lead and indie dev; Swift, C++ and Python; on-device and offline-first AI; 29 apps on the App Store; Vapor and FastAPI on the backend.</desc>
 <style>
   text {{ font: {FS}px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; white-space: pre; }}
   .f {{ fill: #e6edf3 }} .d {{ fill: #8b949e }} .b {{ fill: #6e7681 }}
