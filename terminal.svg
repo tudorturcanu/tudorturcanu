@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 607 453" width="607" height="453" role="img" aria-labelledby="t d">
+<title id="t">Terminal session drawing an iPhone in text characters</title>
+<desc id="d">The command xcrun simctl boot tudor &amp;&amp; neofetch prints an iPhone whose screen shows a Swift struct, beside a summary: iOS tech lead and indie dev; Swift, C++ and Python; on-device and offline-first AI; 29 apps on the App Store; server nil.</desc>
+<style>
+  text { font: 14px ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; white-space: pre; }
+  .f { fill: #e6edf3 } .d { fill: #8b949e } .b { fill: #6e7681 }
+  .k { fill: #ff7b72 } .s { fill: #a5d6ff } .t { fill: #d2a8ff }
+  .n { fill: #79c0ff } .g { fill: #3fb950 } .l { fill: #58a6ff; font-weight: 600 }
+  .h { fill: #f0883e; font-weight: 600 } .cur { fill: #e6edf3 }
+  .a { animation: in .01s linear both; }
+  .cur { animation: blink 1.1s steps(1) infinite; }
+  @keyframes in { from { opacity: 0 } to { opacity: 1 } }
+  @keyframes blink { 50% { opacity: 0 } }
+  @media (prefers-reduced-motion: reduce) { .a, .cur { animation: none } }
+</style>
+<rect x=".5" y=".5" width="606" height="452" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M.5 34.5h606" stroke="#30363d"/>
+<circle cx="20" cy="17" r="6" fill="#ff5f57"/><circle cx="40" cy="17" r="6" fill="#febc2e"/><circle cx="60" cy="17" r="6" fill="#28c840"/>
+<text class="d" x="303.5" y="22" text-anchor="middle">tudor@luzern: ~</text>
+<g class="a" style="animation-delay:0.30s"><text class="g" x="22.0" y="65">$</text></g>
+<g class="a" style="animation-delay:0.70s"><text class="f" x="38.8" y="65">x</text></g>
+<g class="a" style="animation-delay:0.74s"><text class="f" x="47.2" y="65">c</text></g>
+<g class="a" style="animation-delay:0.79s"><text class="f" x="55.6" y="65">r</text></g>
+<g class="a" style="animation-delay:0.84s"><text class="f" x="64.0" y="65">u</text></g>
+<g class="a" style="animation-delay:0.88s"><text class="f" x="72.4" y="65">n</text></g>
+<g class="a" style="animation-delay:0.97s"><text class="f" x="89.2" y="65">s</text></g>
+<g class="a" style="animation-delay:1.02s"><text class="f" x="97.6" y="65">i</text></g>
+<g class="a" style="animation-delay:1.06s"><text class="f" x="106.0" y="65">m</text></g>
+<g class="a" style="animation-delay:1.10s"><text class="f" x="114.4" y="65">c</text></g>
+<g class="a" style="animation-delay:1.15s"><text class="f" x="122.8" y="65">t</text></g>
+<g class="a" style="animation-delay:1.19s"><text class="f" x="131.2" y="65">l</text></g>
+<g class="a" style="animation-delay:1.28s"><text class="f" x="148.0" y="65">b</text></g>
+<g class="a" style="animation-delay:1.33s"><text class="f" x="156.4" y="65">o</text></g>
+<g class="a" style="animation-delay:1.37s"><text class="f" x="164.8" y="65">o</text></g>
+<g class="a" style="animation-delay:1.42s"><text class="f" x="173.2" y="65">t</text></g>
+<g class="a" style="animation-delay:1.51s"><text class="f" x="190.0" y="65">t</text></g>
+<g class="a" style="animation-delay:1.55s"><text class="f" x="198.4" y="65">u</text></g>
+<g class="a" style="animation-delay:1.60s"><text class="f" x="206.8" y="65">d</text></g>
+<g class="a" style="animation-delay:1.64s"><text class="f" x="215.2" y="65">o</text></g>
+<g class="a" style="animation-delay:1.69s"><text class="f" x="223.6" y="65">r</text></g>
+<g class="a" style="animation-delay:1.78s"><text class="f" x="240.4" y="65">&amp;</text></g>
+<g class="a" style="animation-delay:1.82s"><text class="f" x="248.8" y="65">&amp;</text></g>
+<g class="a" style="animation-delay:1.91s"><text class="f" x="265.6" y="65">n</text></g>
+<g class="a" style="animation-delay:1.96s"><text class="f" x="274.0" y="65">e</text></g>
+<g class="a" style="animation-delay:2.00s"><text class="f" x="282.4" y="65">o</text></g>
+<g class="a" style="animation-delay:2.05s"><text class="f" x="290.8" y="65">f</text></g>
+<g class="a" style="animation-delay:2.09s"><text class="f" x="299.2" y="65">e</text></g>
+<g class="a" style="animation-delay:2.14s"><text class="f" x="307.6" y="65">t</text></g>
+<g class="a" style="animation-delay:2.18s"><text class="f" x="316.0" y="65">c</text></g>
+<g class="a" style="animation-delay:2.23s"><text class="f" x="324.4" y="65">h</text></g>
+<g class="a" style="animation-delay:2.62s"><text class="b" x="22.0 30.4 38.8 47.2 55.6 64.0 72.4 80.8 89.2 97.6 106.0 114.4 122.8 131.2 139.6 148.0 156.4 164.8 173.2 181.6 190.0 198.4" y="99">╭────────────────────╮</text></g>
+<g class="a" style="animation-delay:2.69s"><text class="b" x="22.0" y="116">│</text><text class="f" x="47.2 55.6 64.0 72.4" y="116">9:41</text><text class="d" x="106.0 114.4 122.8 131.2" y="116">━━━━</text><text class="f" x="173.2 181.6" y="116">5G</text><text class="b" x="198.4" y="116">│</text></g>
+<g class="a" style="animation-delay:2.76s"><text class="b" x="22.0" y="133">│</text><text class="b" x="198.4" y="133">│</text></g>
+<g class="a" style="animation-delay:2.83s"><text class="b" x="22.0" y="150">│</text><text class="k" x="38.8 47.2 55.6 64.0 72.4 80.8" y="150">struct</text><text class="t" x="97.6 106.0 114.4 122.8 131.2" y="150">Tudor</text><text class="f" x="148.0" y="150">{</text><text class="b" x="198.4" y="150">│</text></g>
+<g class="a" style="animation-delay:2.90s"><text class="b" x="22.0" y="167">│</text><text class="k" x="55.6 64.0 72.4" y="167">let</text><text class="f" x="89.2 97.6 106.0 114.4 131.2" y="167">lang=</text><text class="b" x="198.4" y="167">│</text></g>
+<g class="a" style="animation-delay:2.97s"><text class="b" x="22.0" y="184">│</text><text class="s" x="72.4 80.8 89.2 97.6 106.0 114.4 122.8" y="184">&quot;Swift&quot;</text><text class="b" x="198.4" y="184">│</text></g>
+<g class="a" style="animation-delay:3.04s"><text class="b" x="22.0" y="201">│</text><text class="k" x="55.6 64.0 72.4" y="201">let</text><text class="f" x="89.2 97.6 114.4" y="201">ai=</text><text class="b" x="198.4" y="201">│</text></g>
+<g class="a" style="animation-delay:3.11s"><text class="b" x="22.0" y="218">│</text><text class="t" x="72.4 80.8 89.2 97.6 106.0" y="218">Model</text><text class="f" x="114.4 122.8 131.2 139.6 148.0 156.4 164.8 173.2 181.6" y="218">.onDevice</text><text class="b" x="198.4" y="218">│</text></g>
+<g class="a" style="animation-delay:3.18s"><text class="b" x="22.0" y="235">│</text><text class="k" x="55.6 64.0 72.4" y="235">let</text><text class="f" x="89.2 97.6 106.0 114.4 122.8 131.2 139.6" y="235">server:</text><text class="b" x="198.4" y="235">│</text></g>
+<g class="a" style="animation-delay:3.25s"><text class="b" x="22.0" y="252">│</text><text class="t" x="72.4 80.8 89.2" y="252">URL</text><text class="f" x="97.6 114.4" y="252">?=</text><text class="k" x="131.2 139.6 148.0" y="252">nil</text><text class="b" x="198.4" y="252">│</text></g>
+<g class="a" style="animation-delay:3.32s"><text class="b" x="22.0" y="269">│</text><text class="k" x="55.6 64.0 72.4" y="269">let</text><text class="f" x="89.2 97.6 106.0 114.4 131.2" y="269">apps=</text><text class="n" x="148.0 156.4" y="269">29</text><text class="b" x="198.4" y="269">│</text></g>
+<g class="a" style="animation-delay:3.39s"><text class="b" x="22.0" y="286">│</text><text class="f" x="38.8" y="286">}</text><text class="b" x="198.4" y="286">│</text></g>
+<g class="a" style="animation-delay:3.46s"><text class="b" x="22.0" y="303">│</text><text class="b" x="198.4" y="303">│</text></g>
+<g class="a" style="animation-delay:3.53s"><text class="b" x="22.0" y="320">│</text><text class="g" x="38.8 55.6 64.0 72.4 80.8 89.2 106.0 114.4 122.8 131.2 139.6 148.0 156.4 164.8 173.2" y="320">✓Buildsucceeded</text><text class="b" x="198.4" y="320">│</text></g>
+<g class="a" style="animation-delay:3.60s"><text class="b" x="22.0" y="337">│</text><text class="d" x="55.6 72.4 80.8 89.2 97.6 106.0 114.4 122.8 131.2" y="337">0warnings</text><text class="b" x="198.4" y="337">│</text></g>
+<g class="a" style="animation-delay:3.67s"><text class="b" x="22.0" y="354">│</text><text class="d" x="55.6 72.4 80.8 89.2 97.6 106.0 114.4 122.8" y="354">0servers</text><text class="b" x="198.4" y="354">│</text></g>
+<g class="a" style="animation-delay:3.74s"><text class="b" x="22.0" y="371">│</text><text class="b" x="198.4" y="371">│</text></g>
+<g class="a" style="animation-delay:3.81s"><text class="b" x="22.0" y="388">│</text><text class="d" x="80.8 89.2 97.6 106.0 114.4 122.8 131.2 139.6" y="388">━━━━━━━━</text><text class="b" x="198.4" y="388">│</text></g>
+<g class="a" style="animation-delay:3.88s"><text class="b" x="22.0 30.4 38.8 47.2 55.6 64.0 72.4 80.8 89.2 97.6 106.0 114.4 122.8 131.2 139.6 148.0 156.4 164.8 173.2 181.6 190.0 198.4" y="405">╰────────────────────╯</text></g>
+<g class="a" style="animation-delay:2.87s"><text class="h" x="232.0 240.4 248.8 257.2 265.6" y="133">tudor</text><text class="f" x="274.0" y="133">@</text><text class="h" x="282.4 290.8 299.2 307.6 316.0 324.4" y="133">luzern</text></g>
+<g class="a" style="animation-delay:2.98s"><text class="d" x="232.0 240.4 248.8 257.2 265.6 274.0 282.4 290.8 299.2 307.6 316.0 324.4" y="150">────────────</text></g>
+<g class="a" style="animation-delay:3.09s"><text class="l" x="232.0 240.4 248.8 257.2" y="167">role</text><text class="f" x="316.0 324.4 332.8 349.6 358.0 366.4 374.8 391.6 400.0 408.4 416.8 425.2 442.0 450.4 458.8 467.2 475.6 492.4 500.8 509.2" y="167">iOStechlead,indiedev</text></g>
+<g class="a" style="animation-delay:3.20s"><text class="l" x="232.0 240.4" y="184">os</text><text class="f" x="316.0 324.4 332.8 349.6 366.4 374.8 383.2 391.6 400.0 416.8 433.6 442.0 450.4 458.8 467.2 475.6 484.0 500.8 517.6 526.0 534.4 542.8 551.2 559.6 568.0 576.4" y="184">iOS·macOS·watchOS·visionOS</text></g>
+<g class="a" style="animation-delay:3.31s"><text class="l" x="232.0 240.4 248.8 257.2" y="201">lang</text><text class="f" x="316.0 324.4 332.8 341.2 349.6 366.4 383.2 391.6 400.0 416.8 433.6 442.0 450.4 458.8 467.2 475.6" y="201">Swift·C++·Python</text></g>
+<g class="a" style="animation-delay:3.42s"><text class="l" x="232.0 240.4" y="218">ai</text><text class="f" x="316.0 324.4 332.8 349.6 366.4 374.8 383.2 391.6 400.0 408.4 416.8 425.2 433.6 442.0 450.4" y="218">MLX·whisper.cpp</text></g>
+<g class="a" style="animation-delay:3.53s"><text class="l" x="232.0 240.4 248.8 257.2 265.6" y="235">focus</text><text class="f" x="316.0 324.4 332.8 341.2 349.6 358.0 366.4 374.8 383.2 391.6 408.4 416.8 425.2 433.6 442.0 450.4 458.8 467.2 475.6 484.0 492.4 500.8 509.2" y="235">on-device,offline-first</text></g>
+<g class="a" style="animation-delay:3.64s"><text class="l" x="232.0 240.4 248.8 257.2 265.6 274.0 282.4" y="252">shipped</text><text class="f" x="316.0 324.4 341.2 349.6 358.0 366.4 383.2 391.6 408.4 416.8 425.2 442.0 450.4 458.8 475.6 484.0 492.4 500.8 509.2" y="252">29appsontheAppStore</text></g>
+<g class="a" style="animation-delay:3.75s"><text class="l" x="232.0 240.4 248.8" y="269">oss</text><text class="f" x="316.0 324.4 332.8 341.2 349.6 358.0 366.4 374.8 391.6 408.4 416.8 425.2 433.6 442.0 450.4" y="269">SkillHub·Portly</text></g>
+<g class="a" style="animation-delay:3.86s"><text class="l" x="232.0 240.4 248.8 257.2 265.6 274.0" y="286">uptime</text><text class="f" x="316.0 324.4 332.8 349.6 358.0 366.4 374.8 383.2" y="286">10+years</text></g>
+<g class="a" style="animation-delay:3.97s"><text class="l" x="232.0 240.4 248.8 257.2 265.6 274.0" y="303">server</text><text class="k" x="316.0 324.4 332.8" y="303">nil</text></g>
+<g class="a" style="animation-delay:4.19s"><rect x="232.0" y="325" width="25.2" height="17" fill="#ff7b72"/><rect x="257.2" y="325" width="25.2" height="17" fill="#f0883e"/><rect x="282.4" y="325" width="25.2" height="17" fill="#e3b341"/><rect x="307.6" y="325" width="25.2" height="17" fill="#3fb950"/><rect x="332.8" y="325" width="25.2" height="17" fill="#58a6ff"/><rect x="358.0" y="325" width="25.2" height="17" fill="#bc8cff"/><rect x="383.2" y="325" width="25.2" height="17" fill="#8b949e"/><rect x="408.4" y="325" width="25.2" height="17" fill="#f0f6fc"/></g>
+<g class="a" style="animation-delay:4.25s"><text class="g" x="22.0" y="439">$</text><rect class="cur" x="38.8" y="427" width="8.4" height="16"/></g>
+</svg>

@@ -1,5 +1,7 @@
 ### Hi, I'm Tudor
 
+<img src="terminal.svg" width="607" alt="Terminal session: the command xcrun simctl boot tudor &amp;&amp; neofetch draws an iPhone in text characters, its screen showing a Swift struct, beside a summary of role, languages, and focus.">
+
 Swift for a decade, C++ and Python when the job calls for it, and lately a lot of time spent getting language models to run on a phone instead of a server. iOS tech lead by day, indie developer by night, based in Luzern.
 
 Most of my code is private because it ships as [apps](https://tudorturcanu.ch/apps/). This page is for the parts worth talking about with other developers.
