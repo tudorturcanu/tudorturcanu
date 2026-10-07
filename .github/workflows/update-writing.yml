@@ -1,0 +1,29 @@
+name: Update writing
+
+on:
+  schedule:
+    - cron: "17 5 * * 1" # Mondays, 05:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Pull latest posts from the blog feed
+        run: python3 update_writing.py
+
+      - name: Commit if the list changed
+        run: |
+          if git diff --quiet README.md; then
+            echo "Nothing to commit."
+            exit 0
+          fi
+          git config user.name "Tudor Turcanu"
+          git config user.email "5097762+tudorturcanu@users.noreply.github.com"
+          git commit -m "Update writing from blog feed" README.md
+          git push
