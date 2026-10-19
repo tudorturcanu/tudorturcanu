@@ -27,11 +27,11 @@ npx skills add tudorturcanu/iphone-duo-skill -g
 #### Writing
 
 <!-- writing:start -->
+- [Helvi and Own AI Now Have Their Own Websites](https://tudorturcanu.ch/blog/helvi-and-own-ai-get-their-own-sites/)
 - [What Whole-Module Optimization Actually Deletes](https://tudorturcanu.ch/blog/wmo-what-gets-deleted/)
 - [There Has Never Been a Better Time to Learn a New Programming Language](https://tudorturcanu.ch/blog/best-time-to-learn-a-new-language/)
 - [Every Compiler Error Is a Bug That Didn't Ship](https://tudorturcanu.ch/blog/swift-guardrails-ai/)
 - [Migrating to Swift Testing Without a Heroic Weekend](https://tudorturcanu.ch/blog/migrating-to-swift-testing/)
-- [Scaling an iOS Codebase: Features Vertical, Logic Horizontal](https://tudorturcanu.ch/blog/features-vertical-logic-horizontal/)
 <!-- writing:end -->
 
 #### Archaeology
